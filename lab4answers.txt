@@ -2,3 +2,10 @@ Q1. https://github.com/noahkryz/cmput404labs
 Q2. The browser shows you a webpage that says "The install worked successfully! Congratulations!" and shows a rocket ship
 Q3. When you navigate to /, it gives an error saying "Page not found at /"
 		When you navigate to /polls, it displays a page with the text "Hello, world. You're at the polls index."
+Q4. Django migration is when you make a change to the models and so you tell the database that you have made changes 
+and updating the schema with the new changes
+Q5. I see a site with Authentication and Authorization, with the groups and users, as well as the Polls section
+that has the Choices and Questions header under it
+In order to get a model to appear in the admin page, after you have added it to the models.py, you add the following text
+to the admin.py:
+admin.site.register(<model_name>)
