@@ -9,3 +9,10 @@ that has the Choices and Questions header under it
 In order to get a model to appear in the admin page, after you have added it to the models.py, you add the following text
 to the admin.py:
 admin.site.register(<model_name>)
+Q6. When you go to /polls/38: "You're looking at question 38."
+		/polls/38/results : "You're looking at the results of question 38."
+		/polls/38/vote : You're voting on question 38.
+		When you put a string instead of a number, it gives an error because it is of type <int:question_id>
+		You can change this from int to str, and it will let you put alphabetic characters
+Q7. You would need to change the hardcoding whenever you change the template, and this is a lot of work,
+especially if you have a lot of templates
