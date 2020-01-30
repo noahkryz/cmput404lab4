@@ -16,3 +16,5 @@ Q6. When you go to /polls/38: "You're looking at question 38."
 		You can change this from int to str, and it will let you put alphabetic characters
 Q7. You would need to change the hardcoding whenever you change the template, and this is a lot of work,
 especially if you have a lot of templates
+Q8. It is smarter to use it because it is reusing code for simple tasks, rather than having to write it on your own
+It would be smarter to use a generic view when it is a smalller and simpler task
