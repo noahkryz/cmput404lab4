@@ -1,0 +1,5 @@
+1. You can deploy your code to Heroku through:
+- GitHub
+- the Deploy to Heroku button
+- Terraform
+- WAR Deployment
