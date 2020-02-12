@@ -1,4 +1,4 @@
-Q1. https://github.com/noahkryz/cmput404labs
+Q1. https://github.com/noahkryz/cmput404lab4
 Q2. The browser shows you a webpage that says "The install worked successfully! Congratulations!" and shows a rocket ship
 Q3. When you navigate to /, it gives an error saying "Page not found at /"
 		When you navigate to /polls, it displays a page with the text "Hello, world. You're at the polls index."
